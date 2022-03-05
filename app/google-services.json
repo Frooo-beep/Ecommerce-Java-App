@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738005309994",
+    "project_id": "ecommerce-be522",
+    "storage_bucket": "ecommerce-be522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738005309994:android:d0b187684c6ac7d2bf4153",
+        "android_client_info": {
+          "package_name": "com.frostdev.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738005309994-n7ttr2mb1022bl7c3o2e78tb0o4r7734.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDymnjw92xRHqj9iXjvEyq76djew7f1IeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738005309994-n7ttr2mb1022bl7c3o2e78tb0o4r7734.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

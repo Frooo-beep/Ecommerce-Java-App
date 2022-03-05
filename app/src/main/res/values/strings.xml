@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">YATOKO</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome">Welcome!!</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="another_way">Another Way</string>
+    <string name="login_here">Login here</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="sign_up_here">Sign Up here</string>
+    <string name="does_n_have_any_accout">Does\'n have any accout?</string>
+    <string name="welcome_back">Welcome back!!!</string>
+    <string name="first_slide">Provide The Best Products</string>
+    <string name="second_slide">Fast Delivery Anywhere And Anytime</string>
+    <string name="third_slide">Best Service To All Customers</string>
+    <string name="description">Terdapat berbagai macam pilihan sesuai kebutuhan </string>
+    <string name="description2">Pengiriman yang cepat kemanapun dan kapanpun</string>
+    <string name="description3">Memberikan pengalaman yang terbaik kepada semua pengguna</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="cart">Cart</string>
+    <string name="category_name">Category Name</string>
+</resources>
